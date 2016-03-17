@@ -1,4 +1,9 @@
 # FASE-1-ACABADA-DEFINITIVA
 
-Dentro del archivo zip se encuentran las carpetas donde estan los archivos de los modelos y del diagrama de clases. Tambien hemos añadido
-pdfs e imagenes por si acaso
+Las versiones utilazadas para crear los archivos son respectivamente:
+  Visual Parading version 12.2 (Diagrama de clases).
+  SQL Developer version 12c (Modelo fisico).
+  Data Modeler version 12c (Modelos Mer y relacional)
+Todos los archivos citados anteriormente estan ubicados en las carpetas con el mismo nombre, asi mismo tambien adjuntamos
+archivos PDF para los archivos del modelo logico, imagen PNG para diagrama de clases 
+  
